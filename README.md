@@ -18,7 +18,7 @@ It includes a **Tkinter GUI Control Panel** that allows users to Start and Stop 
 
 ##  Demo (YouTube)
 📺 Watch Demo Here:  
-👉 [https://youtu.be/XXXXXXXX   *(replace with your video link)*](https://youtu.be/PHSDIKAbPqk)
+👉 [CLICK HERE](https://youtu.be/PHSDIKAbPqk)
 
 ---
 
